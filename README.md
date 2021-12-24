@@ -1,5 +1,3 @@
-### Hi i'm alanbritodosantos 👋
-
 Here are some ideas to get you started:
 
 - 👋 Hi, I'm @alanbritodossantos
