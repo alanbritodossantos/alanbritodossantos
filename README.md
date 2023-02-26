@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 - 👋 Hi, I'm @alanbritodossantos
 <p>As a software developer, I'm passionate about technology and I'm always looking to turn ideas into reality through programming. I started my journey in 2019 and since then I have been gaining experience in various technologies on the market, such as C#, XAML, WPF, RTC and GIT. In addition, I have skills in Angular and .NET, in which I am constantly improving my knowledge.</p>
 <p>I am an agile and consistent person in learning new technologies and highly adaptable to changes, always willing to face new challenges. I can describe myself as optimistic, persevering and hard-working, characteristics that help me deal with the difficulties encountered in programming.</p>
