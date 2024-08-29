@@ -1,6 +1,15 @@
 - 👋 Hi, I'm @alanbritodossantos
-<p>As a software developer, I'm passionate about technology and I'm always looking to turn ideas into reality through programming. I started my journey in 2019 and since then I have been gaining experience in various technologies on the market, such as C#, XAML, WPF, RTC and GIT. In addition, I have skills in Angular and .NET, in which I am constantly improving my knowledge.</p>
-<p>I am an agile and consistent person in learning new technologies and highly adaptable to changes, always willing to face new challenges. I can describe myself as optimistic, persevering and hard-working, characteristics that help me deal with the difficulties encountered in programming.</p>
+<p>I am a software developer with solid experience in large corporate environments, working
+on critical projects for clients like Itaú and JBS. With strong knowledge in .NET, C#, Angular,
+ASP.NET Core, and TypeScript, along with agile practices like Scrum, I have excelled in
+developing robust solutions for ATM systems and web applications. My work involves
+integrating tools such as AWS S3, GitHub, GitLab, JIRA, and conducting rigorous testing and
+system analysis with Splunk, always focusing on high performance and security.</p>
+
+
+<p>My career is marked by rapid adaptation to new technologies and challenges, with a resultsoriented
+profile. I am driven by a passion for technology and the constant pursuit of
+innovation, always aiming to deliver solutions that add real value to businesses.</p>
 
 <div align="center">
   <a href="https://github.com/alanbritodossantos">
